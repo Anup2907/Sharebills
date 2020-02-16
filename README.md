@@ -2,7 +2,7 @@
 
 Sharebill's mission is to make shared living and travel easier by providing neutral advice, fair judgement, and simplified expense sharing through Database management system. Inspired from the android/ios app 'Splitwise'.
 
-![sharebills](https://user-images.githubusercontent.com/56169217/74609639-8f30e080-50b1-11ea-8092-3acabc33b6e2.png)
+<img src = (https://user-images.githubusercontent.com/56169217/74609639-8f30e080-50b1-11ea-8092-3acabc33b6e2.png width = "150" height =              "150"/>)
 
 # DATABASE PLANNING
 
