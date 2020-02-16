@@ -79,5 +79,5 @@ vii.	Settle up request should be initiated by borrower and settle up should be d
 ![share](https://user-images.githubusercontent.com/56169217/74609682-08c8ce80-50b2-11ea-926b-adeb3dbda488.png)
 
 
-Pleasr refer the SQL queries written in MYSQL: 
+Pleasr refer the SQL queries written in MYSQL: https://github.com/Anup2907/Sharebills/blob/master/sharebills.mysql
 
