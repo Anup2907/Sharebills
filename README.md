@@ -13,19 +13,33 @@ Sharebill's mission is to make shared living and travel easier by providing neut
 **2.	MISSION OBJECTIVES**
 
 To maintain (INSERT, UPDATE, DELETE) DATA ON USERS
+
 To maintain (INSERT, UPDATE, DELETE) DATA ON TRANSACTIONS
+
 To maintain (INSERT, UPDATE, DELETE) DATA ON GROUPS
+
 To maintain (INSERT, UPDATE, DELETE) DATA ON TRANSACTION_DETAIL
+
 To maintain (INSERT, UPDATE, DELETE) DATA ON GROUP_MEMBERS
+
 To maintain (INSERT, UPDATE, DELETE) DATA ON SETTLEUP_REQUEST
+
 To perform searches on USERS
+
 To perform searches on TRANSACTIONS
+
 To perform searches on GROUPS
+
 To perform searches on TRANSACTION_DETAIL
+
 To perform searches on GROUP_MEMBERS
+
 To perform searches on SETTLEUP_REQUEST
+
 To track the status of settled transactions
+
 To track status of transactions of Group members
+
 To report the monthly transaction of a particular group.
 
 **3.	STANDARDS DEVELOPMENT**
@@ -79,5 +93,5 @@ vii.	Settle up request should be initiated by borrower and settle up should be d
 ![share](https://user-images.githubusercontent.com/56169217/74609682-08c8ce80-50b2-11ea-926b-adeb3dbda488.png)
 
 
-Pleasr refer the SQL queries written in MYSQL: https://github.com/Anup2907/Sharebills/blob/master/sharebills.mysql
+Please refer the SQL queries written in MYSQL: https://github.com/Anup2907/Sharebills/blob/master/sharebills.mysql
 
